@@ -1,0 +1,9 @@
+notebook
+aiohttp
+ipywidgets
+pytest
+nltk
+tensorflow
+pyspark
+jsonlines
+langdetect
