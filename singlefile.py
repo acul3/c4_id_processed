@@ -5,7 +5,7 @@ import json
 from clean import clean_text
 
 
-PATH ="/data/clean_oscar_may_2022"
+PATH ="/data/KoPI-CC/2021_10/neardup_clean/"
 
 def main(file):
     file_name = file.split('/')[-1]
